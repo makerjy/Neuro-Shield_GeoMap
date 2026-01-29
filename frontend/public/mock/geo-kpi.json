@@ -1,0 +1,893 @@
+[
+  {
+    "region_code": "11",
+    "region_name": "서울특별시",
+    "value": 66.8,
+    "change_rate": -0.4,
+    "percentile": 52,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405070Z"
+  },
+  {
+    "region_code": "26",
+    "region_name": "부산광역시",
+    "value": 84.0,
+    "change_rate": -3.0,
+    "percentile": 72,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405076Z"
+  },
+  {
+    "region_code": "27",
+    "region_name": "대구광역시",
+    "value": 44.4,
+    "change_rate": 1.9,
+    "percentile": 87,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405079Z"
+  },
+  {
+    "region_code": "28",
+    "region_name": "인천광역시",
+    "value": 68.9,
+    "change_rate": 3.2,
+    "percentile": 60,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405081Z"
+  },
+  {
+    "region_code": "29",
+    "region_name": "광주광역시",
+    "value": 69.0,
+    "change_rate": -5.0,
+    "percentile": 44,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405084Z"
+  },
+  {
+    "region_code": "30",
+    "region_name": "대전광역시",
+    "value": 55.0,
+    "change_rate": 4.7,
+    "percentile": 27,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405086Z"
+  },
+  {
+    "region_code": "31",
+    "region_name": "울산광역시",
+    "value": 51.9,
+    "change_rate": -1.1,
+    "percentile": 26,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405088Z"
+  },
+  {
+    "region_code": "41",
+    "region_name": "경기도",
+    "value": 71.7,
+    "change_rate": -0.2,
+    "percentile": 43,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405090Z"
+  },
+  {
+    "region_code": "42",
+    "region_name": "강원도",
+    "value": 69.2,
+    "change_rate": 0.9,
+    "percentile": 63,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405092Z"
+  },
+  {
+    "region_code": "43",
+    "region_name": "충청북도",
+    "value": 78.7,
+    "change_rate": -3.5,
+    "percentile": 57,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405094Z"
+  },
+  {
+    "region_code": "44",
+    "region_name": "충청남도",
+    "value": 80.9,
+    "change_rate": 4.0,
+    "percentile": 24,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405096Z"
+  },
+  {
+    "region_code": "45",
+    "region_name": "전라북도",
+    "value": 78.8,
+    "change_rate": 0.0,
+    "percentile": 30,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405098Z"
+  },
+  {
+    "region_code": "46",
+    "region_name": "전라남도",
+    "value": 53.5,
+    "change_rate": -2.2,
+    "percentile": 71,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405100Z"
+  },
+  {
+    "region_code": "47",
+    "region_name": "경상북도",
+    "value": 63.8,
+    "change_rate": 2.9,
+    "percentile": 71,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405102Z"
+  },
+  {
+    "region_code": "48",
+    "region_name": "경상남도",
+    "value": 44.1,
+    "change_rate": -4.9,
+    "percentile": 74,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405104Z"
+  },
+  {
+    "region_code": "50",
+    "region_name": "제주도",
+    "value": 44.6,
+    "change_rate": -4.9,
+    "percentile": 85,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405106Z"
+  },
+  {
+    "region_code": "11010",
+    "region_name": "종로구",
+    "value": 82.0,
+    "change_rate": -2.7,
+    "percentile": 62,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405543Z"
+  },
+  {
+    "region_code": "11020",
+    "region_name": "중구",
+    "value": 77.7,
+    "change_rate": -2.5,
+    "percentile": 75,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405546Z"
+  },
+  {
+    "region_code": "11030",
+    "region_name": "용산구",
+    "value": 53.9,
+    "change_rate": -3.2,
+    "percentile": 44,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405549Z"
+  },
+  {
+    "region_code": "11040",
+    "region_name": "성동구",
+    "value": 74.6,
+    "change_rate": 3.0,
+    "percentile": 46,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405551Z"
+  },
+  {
+    "region_code": "11050",
+    "region_name": "광진구",
+    "value": 62.8,
+    "change_rate": -2.6,
+    "percentile": 64,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405553Z"
+  },
+  {
+    "region_code": "11060",
+    "region_name": "동대문구",
+    "value": 55.1,
+    "change_rate": -0.1,
+    "percentile": 51,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405555Z"
+  },
+  {
+    "region_code": "11070",
+    "region_name": "중랑구",
+    "value": 44.1,
+    "change_rate": 1.3,
+    "percentile": 32,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405557Z"
+  },
+  {
+    "region_code": "11080",
+    "region_name": "성북구",
+    "value": 43.2,
+    "change_rate": 3.3,
+    "percentile": 56,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405559Z"
+  },
+  {
+    "region_code": "11090",
+    "region_name": "강북구",
+    "value": 75.6,
+    "change_rate": -1.8,
+    "percentile": 79,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405561Z"
+  },
+  {
+    "region_code": "11100",
+    "region_name": "도봉구",
+    "value": 74.4,
+    "change_rate": -0.1,
+    "percentile": 41,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405563Z"
+  },
+  {
+    "region_code": "11110",
+    "region_name": "노원구",
+    "value": 53.0,
+    "change_rate": -4.8,
+    "percentile": 84,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405565Z"
+  },
+  {
+    "region_code": "11120",
+    "region_name": "은평구",
+    "value": 77.8,
+    "change_rate": -3.2,
+    "percentile": 38,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405567Z"
+  },
+  {
+    "region_code": "11130",
+    "region_name": "서대문구",
+    "value": 59.3,
+    "change_rate": 2.1,
+    "percentile": 14,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405569Z"
+  },
+  {
+    "region_code": "11140",
+    "region_name": "마포구",
+    "value": 55.2,
+    "change_rate": -3.3,
+    "percentile": 57,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405571Z"
+  },
+  {
+    "region_code": "11150",
+    "region_name": "양천구",
+    "value": 57.7,
+    "change_rate": 2.0,
+    "percentile": 45,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405572Z"
+  },
+  {
+    "region_code": "11160",
+    "region_name": "강서구",
+    "value": 50.0,
+    "change_rate": -2.7,
+    "percentile": 30,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405574Z"
+  },
+  {
+    "region_code": "11170",
+    "region_name": "구로구",
+    "value": 74.2,
+    "change_rate": 2.9,
+    "percentile": 78,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405575Z"
+  },
+  {
+    "region_code": "11180",
+    "region_name": "금천구",
+    "value": 75.6,
+    "change_rate": -0.8,
+    "percentile": 79,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405577Z"
+  },
+  {
+    "region_code": "11190",
+    "region_name": "영등포구",
+    "value": 57.8,
+    "change_rate": 0.1,
+    "percentile": 23,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405579Z"
+  },
+  {
+    "region_code": "11200",
+    "region_name": "동작구",
+    "value": 63.1,
+    "change_rate": 3.3,
+    "percentile": 50,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405580Z"
+  },
+  {
+    "region_code": "11210",
+    "region_name": "관악구",
+    "value": 57.8,
+    "change_rate": -4.3,
+    "percentile": 30,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405582Z"
+  },
+  {
+    "region_code": "11220",
+    "region_name": "서초구",
+    "value": 43.7,
+    "change_rate": 1.2,
+    "percentile": 83,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405583Z"
+  },
+  {
+    "region_code": "11230",
+    "region_name": "강남구",
+    "value": 81.5,
+    "change_rate": 2.8,
+    "percentile": 46,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405585Z"
+  },
+  {
+    "region_code": "11240",
+    "region_name": "송파구",
+    "value": 82.4,
+    "change_rate": -4.0,
+    "percentile": 89,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405586Z"
+  },
+  {
+    "region_code": "11250",
+    "region_name": "강동구",
+    "value": 53.4,
+    "change_rate": -0.3,
+    "percentile": 58,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405588Z"
+  },
+  {
+    "region_code": "26110",
+    "region_name": "중구",
+    "value": 62.5,
+    "change_rate": -0.2,
+    "percentile": 29,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405590Z"
+  },
+  {
+    "region_code": "26140",
+    "region_name": "서구",
+    "value": 47.3,
+    "change_rate": 4.1,
+    "percentile": 26,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405591Z"
+  },
+  {
+    "region_code": "26170",
+    "region_name": "동구",
+    "value": 74.1,
+    "change_rate": -4.4,
+    "percentile": 81,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405593Z"
+  },
+  {
+    "region_code": "26200",
+    "region_name": "영도구",
+    "value": 73.2,
+    "change_rate": 0.4,
+    "percentile": 77,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405594Z"
+  },
+  {
+    "region_code": "26210",
+    "region_name": "부산진구",
+    "value": 41.1,
+    "change_rate": -2.9,
+    "percentile": 24,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405596Z"
+  },
+  {
+    "region_code": "26220",
+    "region_name": "동래구",
+    "value": 47.6,
+    "change_rate": -1.8,
+    "percentile": 62,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405597Z"
+  },
+  {
+    "region_code": "26230",
+    "region_name": "남구",
+    "value": 42.7,
+    "change_rate": -2.6,
+    "percentile": 24,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405599Z"
+  },
+  {
+    "region_code": "26240",
+    "region_name": "북구",
+    "value": 60.5,
+    "change_rate": -0.6,
+    "percentile": 36,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405600Z"
+  },
+  {
+    "region_code": "26250",
+    "region_name": "해운대구",
+    "value": 54.9,
+    "change_rate": -0.5,
+    "percentile": 71,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405602Z"
+  },
+  {
+    "region_code": "26260",
+    "region_name": "사하구",
+    "value": 82.5,
+    "change_rate": -1.8,
+    "percentile": 21,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405603Z"
+  },
+  {
+    "region_code": "26270",
+    "region_name": "금정구",
+    "value": 48.8,
+    "change_rate": 1.4,
+    "percentile": 88,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405605Z"
+  },
+  {
+    "region_code": "26280",
+    "region_name": "강서구",
+    "value": 42.5,
+    "change_rate": -0.6,
+    "percentile": 77,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405606Z"
+  },
+  {
+    "region_code": "26290",
+    "region_name": "연제구",
+    "value": 73.4,
+    "change_rate": 2.8,
+    "percentile": 64,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405607Z"
+  },
+  {
+    "region_code": "26300",
+    "region_name": "수영구",
+    "value": 57.5,
+    "change_rate": -0.2,
+    "percentile": 19,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405609Z"
+  },
+  {
+    "region_code": "26310",
+    "region_name": "사상구",
+    "value": 67.9,
+    "change_rate": 2.8,
+    "percentile": 22,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405610Z"
+  },
+  {
+    "region_code": "26320",
+    "region_name": "기장군",
+    "value": 42.1,
+    "change_rate": 1.3,
+    "percentile": 52,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405612Z"
+  },
+  {
+    "region_code": "2710",
+    "region_name": "대구광역시 시군1",
+    "value": 74.8,
+    "change_rate": 4.7,
+    "percentile": 59,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405615Z"
+  },
+  {
+    "region_code": "2720",
+    "region_name": "대구광역시 시군2",
+    "value": 69.9,
+    "change_rate": -0.3,
+    "percentile": 73,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405617Z"
+  },
+  {
+    "region_code": "2730",
+    "region_name": "대구광역시 시군3",
+    "value": 58.9,
+    "change_rate": 2.9,
+    "percentile": 27,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405619Z"
+  },
+  {
+    "region_code": "2810",
+    "region_name": "인천광역시 시군1",
+    "value": 58.8,
+    "change_rate": 1.2,
+    "percentile": 31,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405621Z"
+  },
+  {
+    "region_code": "2820",
+    "region_name": "인천광역시 시군2",
+    "value": 81.1,
+    "change_rate": -1.9,
+    "percentile": 73,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405622Z"
+  },
+  {
+    "region_code": "2830",
+    "region_name": "인천광역시 시군3",
+    "value": 56.5,
+    "change_rate": -5.0,
+    "percentile": 17,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405624Z"
+  },
+  {
+    "region_code": "2910",
+    "region_name": "광주광역시 시군1",
+    "value": 59.6,
+    "change_rate": 1.9,
+    "percentile": 20,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405626Z"
+  },
+  {
+    "region_code": "2920",
+    "region_name": "광주광역시 시군2",
+    "value": 73.7,
+    "change_rate": -1.1,
+    "percentile": 86,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405628Z"
+  },
+  {
+    "region_code": "2930",
+    "region_name": "광주광역시 시군3",
+    "value": 55.1,
+    "change_rate": -0.3,
+    "percentile": 28,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405629Z"
+  },
+  {
+    "region_code": "3010",
+    "region_name": "대전광역시 시군1",
+    "value": 47.1,
+    "change_rate": -3.1,
+    "percentile": 42,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405632Z"
+  },
+  {
+    "region_code": "3020",
+    "region_name": "대전광역시 시군2",
+    "value": 82.0,
+    "change_rate": -4.7,
+    "percentile": 52,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405633Z"
+  },
+  {
+    "region_code": "3030",
+    "region_name": "대전광역시 시군3",
+    "value": 84.4,
+    "change_rate": -2.0,
+    "percentile": 24,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405635Z"
+  },
+  {
+    "region_code": "3110",
+    "region_name": "울산광역시 시군1",
+    "value": 57.4,
+    "change_rate": -1.6,
+    "percentile": 57,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405637Z"
+  },
+  {
+    "region_code": "3120",
+    "region_name": "울산광역시 시군2",
+    "value": 60.1,
+    "change_rate": 2.0,
+    "percentile": 52,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405639Z"
+  },
+  {
+    "region_code": "3130",
+    "region_name": "울산광역시 시군3",
+    "value": 67.7,
+    "change_rate": -2.0,
+    "percentile": 50,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405640Z"
+  },
+  {
+    "region_code": "4110",
+    "region_name": "경기도 시군1",
+    "value": 41.0,
+    "change_rate": 1.2,
+    "percentile": 82,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405642Z"
+  },
+  {
+    "region_code": "4120",
+    "region_name": "경기도 시군2",
+    "value": 49.0,
+    "change_rate": -3.3,
+    "percentile": 37,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405644Z"
+  },
+  {
+    "region_code": "4130",
+    "region_name": "경기도 시군3",
+    "value": 48.4,
+    "change_rate": -0.7,
+    "percentile": 87,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405646Z"
+  },
+  {
+    "region_code": "4210",
+    "region_name": "강원도 시군1",
+    "value": 66.8,
+    "change_rate": 3.0,
+    "percentile": 31,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405648Z"
+  },
+  {
+    "region_code": "4220",
+    "region_name": "강원도 시군2",
+    "value": 61.4,
+    "change_rate": -1.8,
+    "percentile": 53,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405649Z"
+  },
+  {
+    "region_code": "4230",
+    "region_name": "강원도 시군3",
+    "value": 64.5,
+    "change_rate": 4.3,
+    "percentile": 52,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405671Z"
+  },
+  {
+    "region_code": "4310",
+    "region_name": "충청북도 시군1",
+    "value": 40.7,
+    "change_rate": -4.8,
+    "percentile": 29,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405673Z"
+  },
+  {
+    "region_code": "4320",
+    "region_name": "충청북도 시군2",
+    "value": 60.8,
+    "change_rate": 1.8,
+    "percentile": 18,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405675Z"
+  },
+  {
+    "region_code": "4330",
+    "region_name": "충청북도 시군3",
+    "value": 44.7,
+    "change_rate": 3.7,
+    "percentile": 69,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405677Z"
+  },
+  {
+    "region_code": "4410",
+    "region_name": "충청남도 시군1",
+    "value": 58.5,
+    "change_rate": 0.2,
+    "percentile": 16,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405679Z"
+  },
+  {
+    "region_code": "4420",
+    "region_name": "충청남도 시군2",
+    "value": 83.8,
+    "change_rate": 3.5,
+    "percentile": 17,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405681Z"
+  },
+  {
+    "region_code": "4430",
+    "region_name": "충청남도 시군3",
+    "value": 45.8,
+    "change_rate": 3.4,
+    "percentile": 62,
+    "status": "critical",
+    "computed_at": "2026-01-29T11:48:20.405682Z"
+  },
+  {
+    "region_code": "4510",
+    "region_name": "전라북도 시군1",
+    "value": 57.8,
+    "change_rate": -4.3,
+    "percentile": 78,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405684Z"
+  },
+  {
+    "region_code": "4520",
+    "region_name": "전라북도 시군2",
+    "value": 83.8,
+    "change_rate": -1.4,
+    "percentile": 56,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405686Z"
+  },
+  {
+    "region_code": "4530",
+    "region_name": "전라북도 시군3",
+    "value": 58.7,
+    "change_rate": 0.8,
+    "percentile": 36,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405688Z"
+  },
+  {
+    "region_code": "4610",
+    "region_name": "전라남도 시군1",
+    "value": 84.0,
+    "change_rate": -4.3,
+    "percentile": 75,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405690Z"
+  },
+  {
+    "region_code": "4620",
+    "region_name": "전라남도 시군2",
+    "value": 45.0,
+    "change_rate": -1.8,
+    "percentile": 81,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405692Z"
+  },
+  {
+    "region_code": "4630",
+    "region_name": "전라남도 시군3",
+    "value": 52.7,
+    "change_rate": 4.7,
+    "percentile": 49,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405694Z"
+  },
+  {
+    "region_code": "4710",
+    "region_name": "경상북도 시군1",
+    "value": 74.7,
+    "change_rate": -0.1,
+    "percentile": 58,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405696Z"
+  },
+  {
+    "region_code": "4720",
+    "region_name": "경상북도 시군2",
+    "value": 82.3,
+    "change_rate": -0.1,
+    "percentile": 87,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405697Z"
+  },
+  {
+    "region_code": "4730",
+    "region_name": "경상북도 시군3",
+    "value": 47.9,
+    "change_rate": 4.7,
+    "percentile": 85,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405699Z"
+  },
+  {
+    "region_code": "4810",
+    "region_name": "경상남도 시군1",
+    "value": 53.1,
+    "change_rate": 1.6,
+    "percentile": 74,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405701Z"
+  },
+  {
+    "region_code": "4820",
+    "region_name": "경상남도 시군2",
+    "value": 54.3,
+    "change_rate": -3.9,
+    "percentile": 60,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405713Z"
+  },
+  {
+    "region_code": "4830",
+    "region_name": "경상남도 시군3",
+    "value": 49.2,
+    "change_rate": 3.7,
+    "percentile": 38,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405715Z"
+  },
+  {
+    "region_code": "5010",
+    "region_name": "제주도 시군1",
+    "value": 51.4,
+    "change_rate": 2.5,
+    "percentile": 26,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405717Z"
+  },
+  {
+    "region_code": "5020",
+    "region_name": "제주도 시군2",
+    "value": 54.5,
+    "change_rate": 1.5,
+    "percentile": 28,
+    "status": "warning",
+    "computed_at": "2026-01-29T11:48:20.405719Z"
+  },
+  {
+    "region_code": "5030",
+    "region_name": "제주도 시군3",
+    "value": 58.1,
+    "change_rate": -0.2,
+    "percentile": 81,
+    "status": "normal",
+    "computed_at": "2026-01-29T11:48:20.405720Z"
+  }
+]
